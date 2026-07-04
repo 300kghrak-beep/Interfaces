@@ -1,5 +1,4 @@
-﻿using System.Collections.Immutable;
-// 1
+﻿// 1
 #region IOutput
 interface IOutput
 {
